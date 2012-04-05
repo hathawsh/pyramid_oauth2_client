@@ -1,9 +1,9 @@
 
 This library lets Pyramid applications authenticate users with an OAuth2
-service such as Facebook or a Yasso[1]_ server.
+service such as Facebook or a Yasso_ server.
 
-.. [1] http://pypi.python.org/pypi/yasso
+.. _Yasso: http://pypi.python.org/pypi/yasso
 
-See the oauth2sample[2]_ package for an example of how to use this library.
+See the oauth2sample_ package for an example of how to use this library.
 
-.. [2] http://pypi.python.org/pypi/oauth2sample
+.. _oauth2sample: http://pypi.python.org/pypi/oauth2sample
